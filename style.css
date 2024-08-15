@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    background-color: #ecdd87;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    background-color: white;
+    padding: 10px;
+    width: 336;
+    height: 440px;
+    justify-content: center;
+    border-radius: 10px;
+    margin: auto;
+    border-bottom: solid black 4px;
+    border-right: solid black 4px;
+    
+
+    
+}
+.ill{
+    border-radius: 6px;
+}
+.footer{
+    display: flex;
+}
+
+button{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 65px;
+    height: 30px;
+    border: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
