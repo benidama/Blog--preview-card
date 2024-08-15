@@ -9,6 +9,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 650px;
 }
 
 .main {
@@ -40,24 +41,24 @@ button {
 }
 a {
   text-decoration: none;
-  color:black;
+  color: black;
   font-weight: 500;
 }
 p {
-    font-size: 16px;
+  font-size: 16px;
 }
 .para2 {
-    color: hsl(0, 0%, 42%);
+  color: hsl(0, 0%, 42%);
 }
 .para1 {
-    color: hsl(0, 0%, 7%)
+  color: hsl(0, 0%, 7%);
 }
 .profile {
-    width: 40px;
+  width: 40px;
 }
 h5 {
-    padding: 15px 0px 0px 10px;
+  padding: 15px 0px 0px 10px;
 }
 h3 {
-    font-weight: 800;
+  font-weight: 800;
 }
