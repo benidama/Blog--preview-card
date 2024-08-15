@@ -1,45 +1,63 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
-#container{
-    background-color: #ecdd87;
-    margin: 0px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+#container {
+  background-color: hsl(47, 88%, 63%);
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.main{
-    background-color: white;
-    padding: 10px;
-    width: 336;
-    height: 440px;
-    justify-content: center;
-    border-radius: 10px;
-    margin: auto;
-    border-bottom: solid black 4px;
-    border-right: solid black 4px;
-    
-
-    
+.main {
+  background-color: hsl(0, 0%, 100%);
+  padding: 10px;
+  width: 336;
+  height: 445px;
+  justify-content: center;
+  border-radius: 10px;
+  margin: auto;
+  border-bottom: solid black 4px;
+  border-right: solid black 4px;
 }
-.ill{
-    border-radius: 6px;
+.ill {
+  border-radius: 6px;
 }
-.footer{
-    display: flex;
+.footer {
+  display: flex;
 }
 
-button{
-    margin-bottom: 10px;
-    border-radius: 5px;
-    width: 65px;
-    height: 30px;
-    border: white;
-    text-align: center;
+button {
+  margin-bottom: 10px;
+  border-radius: 5px;
+  width: 65px;
+  height: 30px;
+  border: white;
+  text-align: center;
+  background-color: hsl(47, 88%, 63%);
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
+  color:black;
+  font-weight: 500;
+}
+p {
+    font-size: 16px;
+}
+.para2 {
+    color: hsl(0, 0%, 42%);
+}
+.para1 {
+    color: hsl(0, 0%, 7%)
+}
+.profile {
+    width: 40px;
+}
+h5 {
+    padding: 15px 0px 0px 10px;
+}
+h3 {
+    font-weight: 800;
 }
